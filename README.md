@@ -2,7 +2,7 @@
 
 ### Документация
 
-[Тест план] (https://github.com/ELvovo7/-1-2-Skypro-/blob/main/Тест%20план.md)
+[Тест план](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/Тест%20план.md)
 
 ### [Объект тестирования] ()
 
