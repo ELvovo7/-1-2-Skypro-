@@ -6,7 +6,7 @@
 
 ### [Объект тестирования](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Объект%20тестирования.md)
 
-### [Основные требования] ()
+### [Основные требования](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Основные%20требования.md)
 
 ### [Тестирование требований](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Тестирование%20требований.md)
 
