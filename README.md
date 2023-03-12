@@ -4,7 +4,7 @@
 
 [Тест план](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Тест%20план.md)
 
-### [Объект тестирования] ()
+### [Объект тестирования](https://github.com/ELvovo7/-1-2-Skypro-/blob/main/docs/Объект%20тестирования.md)
 
 ### [Основные требования] ()
 
